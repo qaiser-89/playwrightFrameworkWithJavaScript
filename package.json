@@ -1,0 +1,22 @@
+{
+  "name": "playwright-framework-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tests": "npx playwright test --headed --project=chromium",
+    "allure:report": "rm -rf allure-results; npx playwright test --headed --project = chormium; cp -r reports/history allure-results/history 2>/dev/null; allure generate allure-results --clean -o reports && allure open report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "allure-playwright": "^3.6.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.1"
+  }
+}

@@ -1,0 +1,15 @@
+testuser_1775665884111@email.com
+Number of interests: 10
+SQL
+JS
+AWS
+Selenium
+JavaScript
+PlayWright
+Learning Playwright-1775533062027
+Playwright_1775653527660
+afxfvc
+Test
+Number of genders: 2
+Male
+Female

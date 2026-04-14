@@ -1,0 +1,13 @@
+{
+    "courseImage": "./testData/test.png",
+    "name": "Playwright",
+    "Description": "This is a course description for Test.",
+    "instructorName":"Test Instructor",
+    "price": "25000",
+    "startDate": " 04/10/2026",
+    "endDate": "04/12/2026",
+    "Category": "Playwright"
+
+
+    
+}

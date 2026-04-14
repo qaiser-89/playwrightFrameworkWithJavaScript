@@ -1,0 +1,34 @@
+[
+    {
+        "testid":   "0001",
+        "name": "John Doe",
+        "email": "TestUser",
+        "password": "TestPassword123",
+        "gender": "Male",
+        "state": "Goa",
+        "interests": ["Playwright"],
+        "hobbies": ["Reading", "Swimming"]
+    },
+    {
+        "testid":   "0002",
+        "name": "Rajesh Kumar",
+        "email": "TestUser",
+        "password": "TestPassword123",
+        "gender": "Male",
+        "state": "Goa",
+        "interests": ["Ruby"],
+        "hobbies": ["Singing", "Playing"]
+
+    },
+    {
+        "testid":   "0003",
+        "name": "Sarah Doeyn",
+        "email": "TestUser",
+        "password": "TestPassword123",
+        "gender": "Female",
+        "state": "Goa",
+        "interests": ["JavaScript"],
+        "hobbies": ["Dancing", "Swimming"]
+
+    }
+]
