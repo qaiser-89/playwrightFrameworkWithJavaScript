@@ -1,0 +1,13 @@
+testuser_1776332386802@email.com
+Number of interests: 8
+SQL
+JS
+AWS
+Selenium
+JavaScript
+PHP
+MySQL
+QA-Corina
+Number of genders: 2
+Male
+Female

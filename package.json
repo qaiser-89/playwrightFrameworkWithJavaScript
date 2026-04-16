@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "tests": "npx playwright test --headed --project=chromium",
-    "allure:report": "rm -rf allure-results; npx playwright test --headed --project = chormium; cp -r reports/history allure-results/history 2>/dev/null; allure generate allure-results --clean -o reports && allure open report"
+    "tests-headless": " rm -rf allure-results; npx playwright test  --project=chromium"
   },
   "keywords": [],
   "author": "",
